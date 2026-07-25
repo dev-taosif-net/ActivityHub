@@ -1,0 +1,11 @@
+N:\Projects\ActivityHub\Domain\bin\Debug\net10.0\Domain.deps.json
+n:\Projects\ActivityHub\Domain\bin\Debug\net10.0\Domain.dll
+n:\Projects\ActivityHub\Domain\bin\Debug\net10.0\Domain.pdb
+n:\Projects\ActivityHub\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+n:\Projects\ActivityHub\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+n:\Projects\ActivityHub\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+n:\Projects\ActivityHub\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+n:\Projects\ActivityHub\Domain\obj\Debug\net10.0\Domain.dll
+n:\Projects\ActivityHub\Domain\obj\Debug\net10.0\refint\Domain.dll
+n:\Projects\ActivityHub\Domain\obj\Debug\net10.0\Domain.pdb
+N:\Projects\ActivityHub\Domain\obj\Debug\net10.0\ref\Domain.dll
