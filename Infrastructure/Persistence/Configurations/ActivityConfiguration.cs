@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Infrastructure.Persistence.Configurations;
 
-public class ActivityConfiguration : IEntityTypeConfiguration<Activity>
+public class ActivityConfiguration : BaseEntityConfiguration<Activity, string>
 {
-    public void Configure(EntityTypeBuilder<Activity> builder)
+    public override void Configure(EntityTypeBuilder<Activity> builder)
     {
-        builder.HasKey(x => x.Id);
+        base.Configure(builder);
 
         builder.Property(x => x.Id).ValueGeneratedNever();
 
