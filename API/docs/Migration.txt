@@ -1,0 +1,1 @@
+dotnet ef migrations add <Name> -p Infrastructure -s API -o Persistence/Migrations
